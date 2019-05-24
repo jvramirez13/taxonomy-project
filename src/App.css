@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
@@ -30,4 +31,33 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body{
+  background-color: black;
+}
+
+h1{
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+
+input {
+  padding: 15px 32px;
+  font-size: 16px;
+}
+
+.input {
+  background-color: #EEDB00;
+  border: white;
+  color: black;
+  font-size: 16px;
+  height: 40px;
+  width: 200px;
+  font-weight: 700;
 }
