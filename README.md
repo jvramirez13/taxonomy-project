@@ -1,6 +1,6 @@
 Project Detail:
 
-This project was created using React.JS and it utilizes the Axios Node module to make an API request and display a certain Star Wars character from a click of a button.
+This project was created using React.JS that displays a picture and description of an animal from the canidae animal family (dogs, wolves, foxes).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
